@@ -1,0 +1,28 @@
+a{
+    text-decoration:none;
+}
+ul{
+    list-style:none;
+    position: fixed;
+}
+#spi{
+    width:200px;
+}
+html{
+    text-align: center;
+}
+li{
+    float: left;
+}
+#home{
+    background-color:aquamarine;
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(0.9)
+}
+section{
+    padding: 30px;
+}
